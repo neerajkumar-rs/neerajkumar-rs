@@ -25,7 +25,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neeraj-Kumar-706&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neerajkumar-rs&theme=radical" alt="Contribution Graph" />
 </p>
 
 ---
