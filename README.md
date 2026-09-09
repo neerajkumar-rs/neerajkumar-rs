@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
 <h3 align="center">A passionate developer exploring the boundaries of innovation</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full-Stack+Developer;Open-Source+Contributor;Lifelong+Learner;Tech+Enthusiast;AI+And+ML+learner;Proud+To+Be+Nerd" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Backend+Developer;Open-Source+Contributor;Lifelong+Learner;Tech+Enthusiast;AI+And+ML+learner;Proud+To+Be+Nerd" />
 </p>
 
 ---
