@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
+<h1 align="center">Hi, I'm Neeraj Kumar</h1>
 
 <p align="center">
   <strong>Backend engineering student building practical software and learning in public.</strong>
@@ -18,16 +18,15 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
-- 🎓 I am currently pursuing my university studies and building my foundation in software engineering.
-- 🔧 I am focused on backend development, APIs, databases, and writing maintainable code.
-- 🐍 I am learning backend development with **Flask** and **FastAPI**, from beginner concepts to production-oriented practices.
-- 🗄️ I am learning how to design and work with databases, especially **PostgreSQL**.
-- 📚 I learn by building projects, documenting what I discover, and sharing technical content.
-- 🌱 I am still early in my backend journey, but I am consistent, curious, and committed to improving.
+I am a university student learning software engineering and building my skills through practical projects. My main focus is backend development, especially APIs, databases, and writing code that is simple to understand and maintain.
 
-## 🛠️ Current learning path
+At the moment, I am learning Python backend development with Flask and FastAPI. I am starting with the fundamentals and gradually working toward building more reliable, production-ready applications.
+
+I also enjoy teaching what I learn through technical content. Explaining a topic helps me understand it better and gives me a chance to make complex ideas easier for others.
+
+## What I am learning
 
 ### Backend development
 
@@ -40,7 +39,15 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### Tools and additional interests
+I am currently focusing on:
+
+- Building REST APIs with Flask and FastAPI
+- Learning database design and PostgreSQL
+- Understanding authentication, validation, and error handling
+- Writing cleaner and more maintainable Python code
+- Learning how to test, document, and deploy backend applications
+
+### Other skills and interests
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
@@ -52,35 +59,35 @@
   <img src="https://img.shields.io/badge/Electronics-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Electronics" />
 </p>
 
-> My current priority is becoming a stronger backend engineer. My work with 3D CAD, Blender, robotics, and electronics helps me understand how software connects with the physical world.
+Outside backend development, I spend time learning 3D CAD, Blender, robotics, and electronics. These interests give me a broader understanding of how software can interact with the physical world.
 
-## 🚀 What I build
+## What I build
 
 - Beginner-friendly backend projects and REST APIs
 - Small tools that solve everyday problems
-- Learning projects focused on Python, Flask, FastAPI, and PostgreSQL
-- Technical content that explains what I learn in a simple and practical way
-- Experiments combining software, electronics, robotics, and 3D design
+- Projects using Python, Flask, FastAPI, and PostgreSQL
+- Technical content based on what I am currently learning
+- Experiments that combine software, electronics, robotics, and 3D design
 
-## 🌟 Featured projects
+## Featured projects
 
-- **Pomodoro** — A productivity-focused project for managing work sessions.
+- **Pomodoro** — A productivity tool for managing focused work sessions.
 - **Flashcard Generator** — A learning tool for creating and reviewing flashcards.
 
-More projects will be added as I continue learning and building.
+I am continuing to improve these projects and add new ones as I learn.
 
-## 📈 GitHub activity
+## Current focus
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neerajkumar-rs&theme=github-compact" alt="GitHub contribution graph" />
-</p>
+I am working on becoming a dependable backend engineer by improving my fundamentals, building consistently, and learning how real-world applications are designed and maintained.
 
-## 🤝 Let's connect
+This profile intentionally uses only stable Markdown and badges instead of external activity graphs or dynamic widgets. That keeps it fast, reliable, and less likely to break because of rate limits or third-party service changes.
 
-I am always interested in learning from other developers, collaborating on beginner-friendly projects, and discussing backend engineering, content creation, robotics, and technology.
+## Let's connect
 
-Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/neeraj-kumar-rs/), [Twitter](https://twitter.com/neeraj_no), or [email](mailto:m02448872+github@gmail.com).
+I am interested in learning from other developers, collaborating on beginner-friendly projects, and discussing backend engineering, content creation, robotics, and technology.
 
-## 🎯 Personal motto
+You can reach me through [LinkedIn](https://www.linkedin.com/in/neeraj-kumar-rs/), [Twitter](https://twitter.com/neeraj_no), or [email](mailto:m02448872+github@gmail.com).
+
+## Personal motto
 
 > Build consistently, learn openly, and improve one problem at a time.
